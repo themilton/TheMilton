@@ -1,4 +1,4 @@
-[![MasterHead]([![MasterHead](https://iili.io/rPPK1s.jpg)](https://github.com/themilton.github.io)
+[![MasterHead](https://iili.io/rPPK1s.jpg)](https://github.com/themilton.github.io)
 <h1 align="center">Hi 👋, I'm Milton</h1>
 <h3 align="center">A passionate Cybersecurity Learner from NEPAL</h3>
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/JTTAjM197sku8MgrRa/giphy.gif">
