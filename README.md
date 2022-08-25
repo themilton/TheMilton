@@ -1,7 +1,7 @@
 [![MasterHead](https://iili.io/rPy81p.png)](https://github.com/themilton.github.io)
 <h1 align="center">Hi 👋, I'm Milton</h1>
 <h3 align="center">A passionate Cybersecurity Learner from NEPAL</h3>
-<img align="right" alt="Coding" width=370" src="https://media.giphy.com/media/JTTAjM197sku8MgrRa/giphy.gif">
+<img align="right" alt="Coding" width=400" src="https://media.giphy.com/media/JTTAjM197sku8MgrRa/giphy.gif">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=themilton&label=Profile%20views&color=0e75b6&style=flat" alt="themilton" /> </p>
